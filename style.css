@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+
+.center{
+    display: flex;
+    flex-wrap: wrap ;
+    max-width: 1280px;
+    margin:0 auto;
+    padding:0 2%;
+}   
+
+header{
+    padding:20px0;
+}
+
+.logo{
+    width:50%;
+}
+
+.Menu{
+    padding-top:30;
+   width:50%;
+   text-align: right;
+}
+
+.Menu a{
+  color: rgb(219, 60, 166);
+   text-decoration: none;
+   font-weight: bold;
+   margin: 15px;
+}
+
+body{
+   background-image: url(../img/restaurant-1837150_1920.jpg);
+   background-repeat:no-repeat ;
+   background-size: cover;
+   background-position: center center;
+}  
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+
+.center{
+    display: flex;
+    flex-wrap: wrap ;
+    max-width: 1280px;
+    margin:0 auto;
+    padding:0 2%;
+}   
+
+header{
+    padding:20px0;
+}
+
+.logo{
+    width:50%;
+}
+
+.Menu{
+    padding-top:30;
+   width:50%;
+   text-align: right;
+}
+
+.Menu a{
+  color: rgb(219, 60, 166);
+   text-decoration: none;
+   font-weight: bold;
+   margin: 15px;
+}
+
+body{
+   background-image: url(../img/restaurant-1837150_1920.jpg);
+   background-repeat:no-repeat ;
+   background-size: cover;
+   background-position: center center;
+}  
+
+
+
